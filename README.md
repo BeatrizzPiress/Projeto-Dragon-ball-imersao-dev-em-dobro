@@ -1,7 +1,7 @@
-### Mini Página de Lista de Personagens (Dragon Ball)
+## Mini Página de Lista de Personagens (Dragon Ball)
 
 ## Capa
-<img src="">
+<img src="capa DBZ.png">
 
 
 ## 📄 Descrição do Projeto
